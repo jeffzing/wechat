@@ -2,7 +2,8 @@
 
 # React-Native-Wechat
 
-[React Native] bridging library that integrates WeChat SDKs:
+add to package.json
+"git+https://github.com/jeffzing/wechat.git#1.0.0"
 
 - [x] iOS SDK 1.7.2
 - [x] Android SDK 221
